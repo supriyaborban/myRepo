@@ -1,2 +1,2 @@
 # myRepo
-myRepo
+myRepo for git commands
